@@ -1,2 +1,4 @@
-# Packet-Tracer-Lab
-This is where I will be putting in the Cisco Labs that I have done.
+# Cisco Packet Tracer Projects
+
+A collection of networking and cybersecurity labs completed using
+Cisco Packet Tracer, focusing on routing, access control, and network security.
