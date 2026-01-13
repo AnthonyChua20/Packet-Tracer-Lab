@@ -15,12 +15,14 @@ to control and secure network traffic in a simulated environment.
 - IPv6 ACLs
 
 ## Screenshots
-![Topology](screenshots/Toplogy.png)
-![IPv6 Addressing](screenshots/Addressing.png)
-![ACL Configuration](screenshots/acl-config.png)
-![Verification](screenshots/verification.png)
+![Topology](./Screenshots/Toplogy.png)
+![IPv6 Addressing](./Screenshots/Addressing-Table.png)
+![ACL Configuration](./Screenshots/ACL-List.png)
+![Verification](./Screenshots/Blocked-HTTP-Access.png)
+![Verification](./Screenshots/Blocked-ICMP-request.png)
 
 ## Learning Outcome
 This project improved my understanding of IPv6 traffic filtering and how access
 control mechanisms are used to enhance network security.
+
 
