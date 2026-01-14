@@ -1,17 +1,19 @@
-## Configure IPv6 ACLs
+# Configuring Extended ACLs – Packet Tracer Lab
 
-This lab demonstrates the configuration of IPv6 Access Control Lists
-to restrict and allow traffic between segmented networks.
+## Overview
+This lab shows how to configure extended Access Control Lists (ACLs) in Cisco Packet Tracer to control specific types of network traffic based on protocol, source, and destination.
 
-### Objectives
-- Configure IPv6 addressing
-- Apply IPv6 ACLs to interfaces
-- Verify traffic filtering using test commands
+## Objectives
+- Implement a numbered extended ACL to permit FTP and ICMP traffic.
+- Create a named extended ACL to permit HTTP and ICMP.
+- Apply ACLs to router interfaces.
+- Test and verify correct ACL behaviour.
 
-### Tools Used
+## Tools
 - Cisco Packet Tracer
 
-### Key Concepts
-- IPv6
-- Access Control Lists
-- Network Security
+## Results
+ACLs filtered traffic correctly, allowing permitted services and blocking unauthorized access between subnets.
+
+## Evidence
+Screenshots of router configuration, ACL entries, interface application, and verification tests are included in the `screenshots/` folder.
